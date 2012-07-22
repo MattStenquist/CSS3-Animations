@@ -1,0 +1,56 @@
+/*
+	This just fades any object in. An image, a block, a div, etc.
+*/
+
+@keyframes animate-fadein {
+      0% {opacity:0.0;}
+     15% {opacity:0.15;}
+     25% {opacity:0.2;}
+     35% {opacity:0.3;}
+     45% {opacity:0.4;}
+     50% {opacity:0.5;}
+     60% {opacity:0.6;}
+     75% {opacity:0.7;}
+     80% {opacity:0.8;}
+     90% {opacity:0.9;}
+     100%{opacity:1.0;}
+} 
+@-moz-keyframes animate-fadein {   
+	  0% {opacity:0.0;}
+     15% {opacity:0.15;}
+     25% {opacity:0.2;}
+     35% {opacity:0.3;}
+     45% {opacity:0.4;}
+     50% {opacity:0.5;}
+     60% {opacity:0.6;}
+     75% {opacity:0.7;}
+     80% {opacity:0.8;}
+     90% {opacity:0.9;}
+     100%{opacity:1.0;}
+}
+@-webkit-keyframes animate-fadein {
+	  0% {opacity:0.0;}
+     15% {opacity:0.15;}
+     25% {opacity:0.2;}
+     35% {opacity:0.3;}
+     45% {opacity:0.4;}
+     50% {opacity:0.5;}
+     60% {opacity:0.6;}
+     75% {opacity:0.7;}
+     80% {opacity:0.8;}
+     90% {opacity:0.9;}
+     100%{opacity:1.0;}
+}	
+@-o-keyframes animate-fadein {
+	  0% {opacity:0.0;}
+     15% {opacity:0.15;}
+     25% {opacity:0.2;}
+     35% {opacity:0.3;}
+     45% {opacity:0.4;}
+     50% {opacity:0.5;}
+     60% {opacity:0.6;}
+     75% {opacity:0.7;}
+     80% {opacity:0.8;}
+     90% {opacity:0.9;}
+     100%{opacity:1.0;}
+}	
