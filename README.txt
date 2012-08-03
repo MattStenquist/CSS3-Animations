@@ -1,1 +1,2 @@
 This is a simple Animations Library. Just copy and paste the code into your project files to have these animations take effect on whatever you're building. 
+Over time I will be adding more css-files and compiled animations. 
